@@ -1,0 +1,8 @@
+HelloWorld/gradlew
+.idea
+/gradle
+gradle/
+.gradle
+HelloWorld/gradle.properties
+HelloWorld/build.gradle
+HelloWorld/app/build.gradle
